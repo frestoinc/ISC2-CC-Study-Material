@@ -55,28 +55,31 @@ Configuration management involves tracking and maintaining specific device setti
 3. Impact: Negligible(1), Minor(2), Moderate(3), Severe(4), Very Severe(5)
 
 
- ## Quantitive Risk Analysis
+## Quantitive Risk Analysis
  
- 1. Asset Value (AV)
- 2. Exposure Factor (EF)
- 3. Single Loss Expectancy (SLE) = AV*EF
- 4. Annual Rate of Occurence (ARO)
- 5. Annualized Loss Expectancy (ALE)
- 6. Total Cost of Ownership (TCO) [Mitigation Value]
+1. Asset Value (AV)
+2. Exposure Factor (EF)
+3. Single Loss Expectancy (SLE) = AV*EF
+4. Annual Rate of Occurence (ARO)
+5. Annualized Loss Expectancy (ALE)
+6. Total Cost of Ownership (TCO) [Mitigation Value]
 
- 1. AV = Laptop($1K) + PII ($10k) per loss
- 2. EF = 100% loss
- 3. SLE = $11K * 100%
- 4. ARO = 25 Laptop per year
- 5. ALE = $275K ($11K*25)
- 6. TCO = $100K
+## QRA Examples:
+1. AV = Laptop($1K) + PII ($10k) per loss
+2. EF = 100% loss
+3. SLE = $11K * 100%
+4. ARO = 25 Laptop per year
+5. ALE = $275K ($11K*25)
+6. TCO = $100K
 
 ## Key Goal Indicator (KGI)
 
 Define measures that tell management
 
 ## Key Performance Indicators (KPI)
+
 Define measures that determine how well the IT process is performing in enabling the goal to be reached
 
 ## Key Risk Indicators (KRI)
+
 Metrics that demonstrate the risks that an organisation is facing or how risky an activity is
