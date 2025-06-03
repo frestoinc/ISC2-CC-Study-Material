@@ -66,6 +66,9 @@ There are three common methods of authentication:
 * Something you have | Type 2 Authentication: Tokens (NISTIR 7711), memory cards, smart cards
 * Something you are | Type 3 Authentication: Biometrics , measurable characteristics
 
+* The most to least secure types: Type 3 -> Type 2 -> Type 1
+* The cheapest to expensive types: Type 1 -> Type 2 -> Type 3
+
 #### Methods of Authentication
 
 There are two types of authentication. Using only one of the methods of authentication stated previously is **known as single-factor authentication (SFA)**. Granting users access only after successfully demonstrating or displaying two or more of these methods is **known as multi-factor authentication (MFA)**. 
