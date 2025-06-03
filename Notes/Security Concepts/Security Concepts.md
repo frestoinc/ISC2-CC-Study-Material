@@ -84,12 +84,12 @@ Multifactor authentication combines two different authentication factors.
 
 Three different authentication factors. Something you know, something you are and something you have.
 
-#### something you know
+#### something you know aka Type 1 Authentication
 - Passwords, PIN's, Security questions.
-#### something you are
-- Biometric security mechanisms.
-#### something you have
+#### something you have aka Type 2 Authentication
 - Software and hardware tokens.
+#### something you are aka Type 3 Authentication
+- Biometric security mechanisms.
 
 #### single sign-On (SSO)
 Shares authentiacated sessions across systems
