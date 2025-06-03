@@ -50,13 +50,13 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 ## Files
 
 1. **Important PDFs**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Important%20PDFs
+  > https://github.com/frestoinc/ISC2-CC-Study-Material/tree/main/Important%20PDFs
 2. **Notes**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Notes
+  > https://github.com/frestoinc/ISC2-CC-Study-Material/tree/main/Notes
 3. **Flash Card**
-  > [https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/flashcard.md)
+  > [https://github.com/frestoinc/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/frestoinc/ISC2-CC-Study-Material/blob/main/flashcard.md)
 4. **Quiz**
-  > https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Quiz.md
+  > https://github.com/frestoinc/ISC2-CC-Study-Material/blob/main/Quiz.md
 5. **Mike Chapel Notes**
   > https://docs.google.com/document/d/e/2PACX-1vS4J622T28fpPD2zXJstcJYsNbiOdeDwc9UaRTWCKoNobkPoWkrNvNmsp6_kWEp4lFyYxc8xZ7rLSGb/pub
 
@@ -66,7 +66,7 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=565290801&activity=stars" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star Geographical Distribution of cyberfascinate/ISC2-CC-Study-Material" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+    <img alt="Star Geographical Distribution of frestoinc/ISC2-CC-Study-Material" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=565290801&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
