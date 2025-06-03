@@ -62,9 +62,9 @@ When users have stated their identity, it is necessary **to validate that they a
 
 There are three common methods of authentication:
 
-* Something you know|Type 1 Authentication: Passwords or paraphrases
-* Something you have|Type 2 Authentication: Tokens (NISTIR 7711), memory cards, smart cards
-* Something you are|Type 3 Authentication: Biometrics , measurable characteristics
+* Something you know | Type 1 Authentication: Passwords or paraphrases
+* Something you have | Type 2 Authentication: Tokens (NISTIR 7711), memory cards, smart cards
+* Something you are | Type 3 Authentication: Biometrics , measurable characteristics
 
 #### Methods of Authentication
 
