@@ -4,6 +4,16 @@
 
 Risks within an organization can broadly be categorized into two types: Internal Risks, which originate from within the organization, and External Risks, which stem from factors outside the organization's control. Additionally, there are Multiparty Risks that affect more than one organization, as well as risks specific to knowledge-based organizations such as Intellectual Property Theft and Software License Compliance issues.
 
+## Risk Calculation
+
+Risk = Threat * Vulnerability (or likelihood)
+
+Risk = Threat * Vulnerability * Impact
+
+Total Risk = Threat * Vulnerability * Asset Value
+
+Residual Risk = Total Risk - Countermeasures
+
 ## Risk Assessment
 
 Risk assessment is the process of identifying and evaluating potential risks. It involves analyzing Threats, which are external forces that pose security risks, and Vulnerabilities, which are weaknesses in the organization's security controls. Risks, therefore, arise from the combination of a Threat and a Vulnerability. Risks are typically assessed based on their Likelihood, the probability of occurrence, and their Impact, the potential damage they may cause.
